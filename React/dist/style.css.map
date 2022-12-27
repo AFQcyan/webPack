@@ -1,0 +1,1 @@
+{"version":3,"file":"style.css","mappings":";;;AAAA;IACI,UAAU;AACd,C","sources":["webpack://react/./src/css/style.css"],"sourcesContent":["p{\r\n    color: red;\r\n}"],"names":[],"sourceRoot":""}
